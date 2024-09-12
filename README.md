@@ -1,2 +1,2 @@
-# act_2.2
- Activity 2.2
+# Activity_2.2
+ This notebook is about a tutorial for data visualization with plotnine.
